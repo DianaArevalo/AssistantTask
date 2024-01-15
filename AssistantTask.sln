@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssistantTask.Server", "AssistantTask.Server\AssistantTask.Server.csproj", "{1B3745C3-8B38-4C9E-8E3F-264C47398E38}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "assistanttask.client", "assistanttask.client\assistanttask.client.esproj", "{91C23B34-3576-45FA-979F-066D929C2C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B3745C3-8B38-4C9E-8E3F-264C47398E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3745C3-8B38-4C9E-8E3F-264C47398E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3745C3-8B38-4C9E-8E3F-264C47398E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3745C3-8B38-4C9E-8E3F-264C47398E38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91C23B34-3576-45FA-979F-066D929C2C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C23B34-3576-45FA-979F-066D929C2C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C23B34-3576-45FA-979F-066D929C2C47}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{91C23B34-3576-45FA-979F-066D929C2C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C23B34-3576-45FA-979F-066D929C2C47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91C23B34-3576-45FA-979F-066D929C2C47}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBDBD740-0C14-412E-820A-74E33A9DE201}
+	EndGlobalSection
+EndGlobal
